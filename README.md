@@ -1,5 +1,7 @@
 # des-chat
-### _Adan Gandarilla <adan.gandarilla01@utrgv.edu>_
+This project was an assignment for a cryptography class. We had to make a chat server with DES encryption.<br>
+We were allowed to use a library for the encryption, but I decided to do it from scratch for the fun of it. <br>
+For running the server, we had to deploy it using NGROk. It should still work if you deploy it, but using local addresses/ports should work just as well.
 
 ## Description
 This is a chat server with end to end DES encryption, written in Common Lisp.
